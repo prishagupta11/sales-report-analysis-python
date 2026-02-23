@@ -1,0 +1,82 @@
+Sr.No.,ProductName,Category,Brand,SellingPrice,UnitSold,Rating,CostPrice
+1,Leather Jacket,Clothing,Gucci,179999.0,74.0,4.2,80000.0
+2,Designer Jeans,Clothing,Gucci,119999.0,54.0,3.8,60000.0
+3,Evening Gown,Clothing,Louis Vuitton,219999.0,84.0,4.5,90000.0
+4,High-End Sneakers,Footwear,Prada,149999.0,74.0,4.1,80000.0
+5,Comfort Sandals,Footwear,H&M,49999.0,24.0,3.5,30000.0
+6,Diamond Necklace,Accessories,Louis Vuitton,249999.0,94.0,4.8,100000.0
+7,Gold Bracelet,Accessories,Gucci,119999.0,64.0,4.6,70000.0
+8,Luxury Lipstick,Beauty,Prada,44999.0,14.0,4.9,20000.0
+9,High-End Foundation,Beauty,H&M,69999.0,29.0,4.2,35000.0
+10,Silk Pillow,Home & Living,Zara,69999.0,24.0,4.0,30000.0
+11,Cashmere Blanket,Home & Living,Gucci,149999.0,74.0,4.3,80000.0
+12,Cashmere Sweater,Clothing,Louis Vuitton,129999.0,59.0,4.4,65000.0
+13,Linen Shorts,Clothing,Prada,59999.0,19.0,3.7,25000.0
+14,Silk Skirt,Clothing,H&M,79999.0,34.0,4.0,40000.0
+15,Italian Leather Boots,Clothing,Zara,149999.0,74.0,4.6,80000.0
+16,Wool Coat,Footwear,Gucci,199999.0,84.0,4.1,90000.0
+17,Smartwatch,Accessories,Louis Vuitton,69999.0,24.0,4.8,30000.0
+18,Trench Coat,Clothing,Prada,79999.0,34.0,4.3,40000.0
+19,Leather Handbag,Clothing,H&M,199999.0,94.0,4.7,100000.0
+20,Designer Sunglasses,Accessories,Zara,49999.0,44.0,4.2,50000.0
+21,Silk Scarf,Footwear,Gucci,39999.0,14.0,3.9,20000.0
+22,Suede Boots,Accessories,Louis Vuitton,119999.0,64.0,4.5,70000.0
+23,Handcrafted Belt,Footwear,Prada,59999.0,34.0,4.3,40000.0
+24,Formal Shoes,Footwear,H&M,149999.0,74.0,4.7,80000.0
+25,Canvas Sneakers,Accessories,Zara,89999.0,44.0,4.0,50000.0
+26,Luxury Watch,Accessories,Gucci,79999.0,44.0,4.6,50000.0
+27,Silk Tie,Clothing,Louis Vuitton,199999.0,94.0,4.2,100000.0
+28,Cotton T-Shirt,Clothing,Prada,349999.0,144.0,3.8,150000.0
+29,Chino Pants,Clothing,H&M,49999.0,24.0,4.5,30000.0
+30,Casual Jacket,Footwear,Zara,79999.0,54.0,4.1,60000.0
+31,Wool Sweater,Accessories,Gucci,199999.0,84.0,4.7,90000.0
+32,Designer Wallet,Clothing,Louis Vuitton,69999.0,24.0,4.3,30000.0
+33,Statement Necklace,Clothing,Prada,79999.0,34.0,4.0,40000.0
+34,Evening Clutch,Accessories,H&M,199999.0,94.0,4.5,100000.0
+35,Beachwear,Footwear,Zara,49999.0,44.0,4.2,50000.0
+36,Perfume,Accessories,Gucci,39999.0,14.0,3.9,20000.0
+37,Luxury Pen,Accessories,Louis Vuitton,119999.0,64.0,4.5,70000.0
+38,Handmade Jewelry,Beauty,Prada,59999.0,24.0,4.3,30000.0
+39,Designer Sneakers,Footwear,H&M,89999.0,44.0,4.0,50000.0
+40,Elegant Dress,Clothing,Zara,79999.0,34.0,4.6,40000.0
+41,Formal Suit,Accessories,Gucci,199999.0,94.0,4.7,100000.0
+42,Sports Watch,Footwear,Louis Vuitton,49999.0,24.0,4.1,30000.0
+43,Designer Belt,Accessories,Prada,39999.0,14.0,3.8,20000.0
+44,Luxury Tote,Clothing,H&M,119999.0,64.0,4.5,70000.0
+45,Gourmet Coffee Maker,Home & Living,Zara,59999.0,24.0,4.2,30000.0
+46,Cashmere Gloves,Clothing,Gucci,149999.0,74.0,4.6,80000.0
+47,Wool Scarf,Accessories,Louis Vuitton,199999.0,94.0,4.3,100000.0
+48,Luxury Hand Cream,Beauty,Prada,69999.0,29.0,4.0,35000.0
+49,Silk Blouse,Clothing,H&M,79999.0,34.0,4.5,40000.0
+50,Canvas Backpack,Accessories,Zara,59999.0,24.0,4.2,30000.0
+51,Silk Pajamas,Clothing,Gucci,199999.0,94.0,4.1,100000.0
+52,Leather Boots,Footwear,Louis Vuitton,299999.0,144.0,4.7,150000.0
+53,Denim Jacket,Clothing,Prada,139999.0,64.0,4.0,70000.0
+54,Leather Gloves,Accessories,H&M,149999.0,74.0,4.5,80000.0
+55,Designer Bag,Clothing,Zara,199999.0,94.0,4.3,100000.0
+56,Cashmere Socks,Footwear,Gucci,29999.0,9.0,3.8,15000.0
+57,Luxury Tea Set,Home & Living,Louis Vuitton,79999.0,34.0,4.2,40000.0
+58,Designer Earrings,Accessories,Prada,119999.0,64.0,4.5,70000.0
+59,Silk Shawl,Clothing,H&M,49999.0,19.0,4.1,25000.0
+60,Formal Vest,Accessories,Zara,79999.0,34.0,4.6,40000.0
+61,High-End Bag,Clothing,Gucci,249999.0,114.0,4.8,120000.0
+62,Casual Shoes,Footwear,Louis Vuitton,89999.0,44.0,4.3,50000.0
+63,Luxury Skirt,Clothing,Prada,99999.0,44.0,4.5,50000.0
+64,Handmade Shoes,Footwear,H&M,149999.0,74.0,4.2,80000.0
+65,Wool Hat,Accessories,Zara,39999.0,14.0,4.0,20000.0
+66,High-End Sunglasses,Accessories,Gucci,79999.0,34.0,4.6,40000.0
+67,Luxury Perfume,Beauty,Louis Vuitton,149999.0,74.0,4.5,80000.0
+68,Designer Suit,Clothing,Prada,199999.0,94.0,4.7,100000.0
+69,Leather Briefcase,Accessories,H&M,299999.0,144.0,4.8,150000.0
+70,Cashmere Cardigan,Clothing,Zara,79999.0,34.0,4.3,40000.0
+71,Silk Robe,Clothing,Gucci,199999.0,94.0,4.6,100000.0
+72,Formal Shirt,Clothing,Louis Vuitton,99999.0,44.0,4.0,50000.0
+73,Designer Sweater,Clothing,Prada,119999.0,54.0,4.5,60000.0
+74,Casual Watch,Accessories,H&M,69999.0,24.0,4.2,30000.0
+75,Luxury Chair,Home & Living,Zara,249999.0,94.0,4.7,100000.0
+76,High-End Tie,Clothing,Gucci,49999.0,19.0,4.1,25000.0
+77,Designer Slippers,Footwear,Louis Vuitton,59999.0,24.0,4.4,30000.0
+78,Luxury Blanket,Home & Living,Prada,149999.0,74.0,4.3,80000.0
+79,Leather Tote,Accessories,H&M,119999.0,54.0,4.6,60000.0
+80,Belt,Accessories,Louis Vuitton,65000.0,22.0,4.5,55000.0
+32321,frg,Clothing,Prada,2321.0,34.0,3.4,224214.0
