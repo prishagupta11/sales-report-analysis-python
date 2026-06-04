@@ -18,7 +18,7 @@ The system allows users to store product details, view sales records, and analyz
 
 # 🖥️ Application Preview
 
-# Main Menu
+ Main Menu
 
 ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆
 Main Menu
@@ -30,7 +30,7 @@ Main Menu
 
 # 📊 Available Analysis
 
-# Sales by Category
+ Sales by Category
 Visualizes total units sold across different categories:
 * Clothing
 * Footwear
@@ -38,15 +38,15 @@ Visualizes total units sold across different categories:
 * Beauty
 * Home & Living
 
-# Profit/Loss Analysis
+ Profit/Loss Analysis
 The system calculates:
 Profit/Loss = Selling Price - Cost Price
 and compares results between brands and categories.
 
-# Top Rated Products
+ Top Rated Products
 Displays the highest-rated products from the sales dataset.
 
-# Sales by Brand
+ Sales by Brand
 Shows brand-wise sales performance using charts.
 
 # 🛠️ Tech Stack
@@ -68,15 +68,15 @@ Sales-Analysis-System/
 
 # ⚙️ Installation & Setup
 
-# Clone Repository
+ Clone Repository
 bash
 git clone https://github.com/your-username/Sales-Analysis-System.git
 
-# Install Dependencies
+ Install Dependencies
 bash
 pip install -r requirements.txt
 
-# Run Application
+ Run Application
 bash
 python sales_analysis.py
 
