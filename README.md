@@ -101,8 +101,8 @@ Sales-Analysis-System/
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/your-username/Sales-Analysis-System.git
+```bash[
+git clone https://github.com/prishagupta11/sales-report-analysis-python
 ```
 
 ### Install Dependencies
@@ -142,9 +142,9 @@ matplotlib
 
 ## 👩‍💻 Author
 
-**Your Name**
+**PRISHA GUPTA**
 
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/prishagupta11)
 
 ---
 
