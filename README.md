@@ -1,9 +1,9 @@
-📊 Sales Analysis System
+# 📊 Sales Analysis System
 
 A Python-based application for managing product sales data and generating analytical reports using Pandas and Matplotlib.
 The system allows users to store product details, view sales records, and analyze business performance through different visual reports.
 
-🚀 Features
+# 🚀 Features
 
 | Feature               | Description                                |
 | --------------------- | -------------------------------------------|
@@ -16,7 +16,7 @@ The system allows users to store product details, view sales records, and analyz
 | ⭐ Rating Analysis     | Display top-rated products                |
 | 📷 Export Charts      | Save generated graphs as images            |
 
-🖥️ Application Preview
+# 🖥️ Application Preview
 
 # Main Menu
 
@@ -28,7 +28,7 @@ Main Menu
 4. Exit
 ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆
 
-📊 Available Analysis
+# 📊 Available Analysis
 
 # Sales by Category
 Visualizes total units sold across different categories:
@@ -49,7 +49,7 @@ Displays the highest-rated products from the sales dataset.
 # Sales by Brand
 Shows brand-wise sales performance using charts.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 │
@@ -57,7 +57,7 @@ Python
 ├── Matplotlib    → Data visualization
 └── CSV           → Data storage
 
-📂 Project Structure
+# 📂 Project Structure
 
 Sales-Analysis-System/
 │
@@ -66,7 +66,7 @@ Sales-Analysis-System/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
 # Clone Repository
 bash
@@ -80,23 +80,22 @@ pip install -r requirements.txt
 bash
 python sales_analysis.py
 
-📌 Requirements
+# 📌 Requirements
 Create a `requirements.txt` file:
 pandas
 matplotlib
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 * GUI interface using Tkinter
 * Database integration (MySQL/SQLite)
 * User authentication
 * Date-wise sales filtering
 * Interactive dashboard
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Prisha Gupta 
 https://github.com/prishagupta11
 
----
 
-⭐ If you like this project, consider giving it a star!
+# ⭐ If you like this project, consider giving it a star!
